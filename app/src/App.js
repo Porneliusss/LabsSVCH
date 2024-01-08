@@ -10,7 +10,6 @@ function App() {
       <Route path="/products" component={Products} />
       <Route path="/management" component={Management} />
       <Route path="/about" component={About} />
-      {/* Добавьте другие маршруты и компоненты страниц */}
     </div>
   </Router>
   );
