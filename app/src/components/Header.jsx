@@ -10,7 +10,7 @@ const Header = () => {
           <li>
             <Link to="/">Главная</Link>
           </li>
-          {/* <li>
+          <li>
             <Link to="/products">Продукция</Link>
           </li>
           <li>
@@ -18,7 +18,7 @@ const Header = () => {
           </li>
           <li>
             <Link to="/about">О нас</Link>
-          </li> */}
+          </li>
         </ul>
       </nav>
     </header>
